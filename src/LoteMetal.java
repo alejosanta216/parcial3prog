@@ -1,7 +1,7 @@
 
 
 //Lote de metal (genera etiqueta)
-public class LoteMetal extends Lote implements IGenerarEtiqueta {
+public class    LoteMetal extends Lote implements IGenerarEtiqueta {
     //Valores por kilogramo
     private static final double VALOR_KG_ALUMINIO = 2200;
     private static final double VALOR_KG_ACERO = 900;
